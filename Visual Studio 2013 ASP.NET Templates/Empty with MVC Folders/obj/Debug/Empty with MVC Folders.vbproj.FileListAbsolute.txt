@@ -1,0 +1,22 @@
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with MVC Folders\bin\Empty with MVC Folders.dll.config
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with MVC Folders\bin\Empty with MVC Folders.dll
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with MVC Folders\bin\Empty with MVC Folders.pdb
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with MVC Folders\bin\Empty with MVC Folders.xml
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with MVC Folders\bin\System.Web.Helpers.dll
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with MVC Folders\bin\System.Web.Mvc.dll
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with MVC Folders\bin\System.Web.Razor.dll
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with MVC Folders\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with MVC Folders\bin\System.Web.Webpages.dll
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with MVC Folders\bin\System.Web.Webpages.Razor.dll
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with MVC Folders\bin\System.Web.Razor.xml
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with MVC Folders\bin\System.Web.Webpages.xml
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with MVC Folders\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with MVC Folders\bin\System.Web.Webpages.Razor.xml
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with MVC Folders\bin\System.Web.Helpers.xml
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with MVC Folders\bin\System.Web.Mvc.xml
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with MVC Folders\obj\Debug\Empty with MVC Folders.vbprojResolveAssemblyReference.cache
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with MVC Folders\obj\Debug\Empty_with_MVC_Folders.Resources.resources
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with MVC Folders\obj\Debug\Empty with MVC Folders.vbproj.GenerateResource.Cache
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with MVC Folders\obj\Debug\Empty with MVC Folders.dll
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with MVC Folders\obj\Debug\Empty with MVC Folders.xml
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with MVC Folders\obj\Debug\Empty with MVC Folders.pdb

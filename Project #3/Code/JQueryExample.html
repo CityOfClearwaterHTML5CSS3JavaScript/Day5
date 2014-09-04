@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>JQuery Example</title>
+</head>
+<body>
+    <script>
+        function toggleDivWithJS(divId) {
+            var div = document.getElementById(divId);
+            if (div.style.display == "none") {
+                div.style.display = "block";
+            }
+            else {
+                div.style.display = "none";
+            }
+
+            /* Alternatives to getElementById(); */
+                // document.getElementByName();
+                // document.getElementByClassName();
+                // document.getElementByTagName();
+                // document.querySelector();
+                // document.querySelectorAll();
+        }
+
+        function toggleDivWithJQuery(divId) {
+            $("#" + divId).toggle();
+        }
+
+        function demoJQueryChaining(divId) {
+            $("#" + divId).css("color", "red").css("background-color", "yellow").slideUp(2000).slideDown(2000);
+        }
+    </script>
+
+    <a href="javascript:toggleDivWithJS('divToToggleWithJS');">Toggle Div With JavaScript</a><br />
+    <div id="divToToggleWithJS">This is some toggling text</div>
+
+    <br />
+    <a href="javascript:toggleDivWithJQuery('divToToggleWithJQuery');">Toggle Div With JQuery</a><br />
+    <div id="divToToggleWithJQuery">This is some toggling text</div>
+
+    <br />
+    <a href="javascript:demoJQueryChaining('divToChain');">Demo Chaining</a><br />
+    <div id="divToChain">This is some text to be chained</div>
+
+    <br />
+    Date: <input type="text" id="datepicker"><br />
+
+    <form class="cmxform" id="commentForm" method="get" action="">
+        <fieldset>
+            <legend>Please provide your name, email address (won't be published) and a comment</legend>
+            <p>
+                <label for="cname">Name (required, at least 2 characters)</label>
+                <input id="cname" name="name" minlength="2" type="text" required />
+            </p>
+            <p>
+                <label for="cemail">E-Mail (required)</label>
+                <input id="cemail" type="email" name="email" required />
+            </p>
+            <p>
+                <label for="curl">URL (optional)</label>
+                <input id="curl" type="url" name="url" />
+            </p>
+            <p>
+                <label for="ccomment">Your comment (required)</label>
+                <textarea id="ccomment" name="comment" required></textarea>
+            </p>
+            <p>
+                <input class="submit" type="submit" value="Submit" />
+            </p>
+        </fieldset>
+    </form>
+
+    <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+    <script src="http://code.jquery.com/ui/1.11.1/jquery-ui.min.js"></script>
+    <script>
+        $(function () {
+            $("#datepicker").datepicker();
+        });
+    </script>
+    <script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.13.0/jquery.validate.min.js"></script>
+    <script>
+        $("#commentForm").validate();
+    </script>
+</body>
+</html>

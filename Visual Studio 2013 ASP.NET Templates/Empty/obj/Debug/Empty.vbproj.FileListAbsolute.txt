@@ -1,0 +1,9 @@
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty\bin\Empty.dll.config
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty\bin\Empty.dll
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty\bin\Empty.pdb
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty\bin\Empty.xml
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty\obj\Debug\Empty.Resources.resources
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty\obj\Debug\Empty.vbproj.GenerateResource.Cache
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty\obj\Debug\Empty.dll
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty\obj\Debug\Empty.xml
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty\obj\Debug\Empty.pdb

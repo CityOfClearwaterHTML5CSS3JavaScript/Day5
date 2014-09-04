@@ -1,0 +1,18 @@
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with Web API Folders\bin\Empty with Web API Folders.dll.config
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with Web API Folders\bin\Empty with Web API Folders.dll
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with Web API Folders\bin\Empty with Web API Folders.pdb
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with Web API Folders\bin\Empty with Web API Folders.xml
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with Web API Folders\bin\Newtonsoft.Json.dll
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with Web API Folders\bin\System.Net.Http.Formatting.dll
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with Web API Folders\bin\System.Web.Http.dll
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with Web API Folders\bin\System.Web.Http.WebHost.dll
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with Web API Folders\bin\Newtonsoft.Json.xml
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with Web API Folders\bin\System.Net.Http.Formatting.xml
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with Web API Folders\bin\System.Web.Http.xml
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with Web API Folders\bin\System.Web.Http.WebHost.xml
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with Web API Folders\obj\Debug\Empty with Web API Folders.vbprojResolveAssemblyReference.cache
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with Web API Folders\obj\Debug\Empty_with_Web_API_Folders.Resources.resources
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with Web API Folders\obj\Debug\Empty with Web API Folders.vbproj.GenerateResource.Cache
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with Web API Folders\obj\Debug\Empty with Web API Folders.dll
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with Web API Folders\obj\Debug\Empty with Web API Folders.xml
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with Web API Folders\obj\Debug\Empty with Web API Folders.pdb

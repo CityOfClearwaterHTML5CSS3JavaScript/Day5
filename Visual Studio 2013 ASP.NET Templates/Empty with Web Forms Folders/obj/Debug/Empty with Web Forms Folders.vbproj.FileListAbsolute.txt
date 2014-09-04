@@ -1,0 +1,9 @@
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with Web Forms Folders\bin\Empty with Web Forms Folders.dll.config
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with Web Forms Folders\bin\Empty with Web Forms Folders.dll
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with Web Forms Folders\bin\Empty with Web Forms Folders.pdb
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with Web Forms Folders\bin\Empty with Web Forms Folders.xml
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with Web Forms Folders\obj\Debug\Empty_with_Web_Forms_Folders.Resources.resources
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with Web Forms Folders\obj\Debug\Empty with Web Forms Folders.vbproj.GenerateResource.Cache
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with Web Forms Folders\obj\Debug\Empty with Web Forms Folders.dll
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with Web Forms Folders\obj\Debug\Empty with Web Forms Folders.xml
+C:\Users\Geek\Documents\City of Clearwater\Projects\Visual Studio 2013 ASP.NET Templates\Empty with Web Forms Folders\obj\Debug\Empty with Web Forms Folders.pdb
